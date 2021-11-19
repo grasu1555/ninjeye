@@ -5,7 +5,7 @@
       <li>
           :white_check_mark:  Added a new check for the internet connection
             <ul>
-              :information_source: In the past, users could start the client with no internet connection which resulted in the situation that protection was disabled. This can no longer be done. An exception is thrown if there is no internet connection at run-time.
+              :information_source: In the past, users could start the client with no internet connection which resulted in the situation that protection was disabled. This can no longer be done. An error message is thrown if there is no internet connection at run-time.
             </ul>
       </li>
       <li>
@@ -18,7 +18,7 @@
             </ul>
       </li>
       <li>
-        <a href="https://www.virustotal.com/gui/file/2c76b3ff49644d0a27e29749890f1afd861ea155bf51846e4b4eee6c84f25b1a"> 
+        <a href="https://www.virustotal.com/gui/file/579aad9a72dfeb9e63505098cbb570969e39dcdada11e8472d295ef6e3d87fc5"> 
           :robot:  VirusTotal (false-positives due to encryptions used)
         </a>
       </li>
