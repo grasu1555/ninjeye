@@ -8,7 +8,7 @@
       <li>
           :wrench:  Reworked the exported m4in() function
             <ul>
-              :information_source: Changed to 'void __cdecl m4in(bool enabled, DWORD *arg7, DWORD *arg8, std::vector<DWORD> *dwThIDs, DWORD licenseKey);'. First parameter must be true.
+              :information_source: Changed to 'void __cdecl m4in(bool enabled, DWORD *arg7, DWORD *arg8, std::vector< DWORD > *dwThIDs, DWORD licenseKey);'. First parameter must be true.
             </ul>
       </li>
       <li>
