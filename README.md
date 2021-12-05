@@ -28,7 +28,7 @@
       </li>
       <li>
         <a href="https://www.virustotal.com/gui/file/9ac0221713637fc469869a8d4fdea73743dcf36eb9e87c30aec3b31fde582f7c"> 
-          :robot:  VirusTotal (false-positives due to encryptions used)
+          :robot:  VirusTotal
         </a>
       </li>
     </ul>
