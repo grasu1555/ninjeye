@@ -1,5 +1,38 @@
-# <a href="https://m2protect.net/"><img src="https://m2protect.net/assets/img/brand/white.png" /></a>
+# <a href="https://ninjeye.net/"><img src="https://ninjeye.net/assets/img/brand/white.png" /></a>
 <ul>
+  <li>:rocket: v140
+    <ul>
+      <li>
+          :mega:  Welcome the NinjEye.net
+            <ul>
+              :information_source: M2Protect.net has been a wonderul project for 3 1/2 years. It's time for improvement.
+            </ul>
+      </li>
+      <li>
+        :postal_horn:  Fixed <b><i>all hacks</i></b> that worked on versions before<br>
+      </li>
+      <li>
+          :airplane:  Fixed Reksati's Macro<br>
+      </li>
+      <li>
+          :100:  Fixed some little bugs<br>
+      </li>
+      <li>
+          :x:  Removed EterX checks<br>
+      </li>
+      <li>
+           :love_letter:  Added email address and information for MessageBox errors
+      </li>
+      <li>
+          :laughing:  A lot of other changes and improvements that I can not write here because cuckoos are :eyes:<br>
+      </li>
+      <li>
+        <a href="https://www.virustotal.com/gui/file/9ac0221713637fc469869a8d4fdea73743dcf36eb9e87c30aec3b31fde582f7c"> 
+          :robot:  VirusTotal (false-positives due to encryptions used)
+        </a>
+      </li>
+    </ul>
+  </li>
   <li>:rocket: v139
     <ul>
       <li>
