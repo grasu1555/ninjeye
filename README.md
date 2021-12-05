@@ -3,7 +3,7 @@
   <li>:rocket: v140
     <ul>
       <li>
-          :mega:  Welcome the NinjEye.net
+          :mega:  Welcome the <a href="https://ninjeye.net/">NinjEye.net</a>
             <ul>
               :information_source: M2Protect.net has been a wonderul project for 3 1/2 years. It's time for enhancement.
             </ul>
