@@ -3,9 +3,15 @@
   <li>:rocket: v140
     <ul>
       <li>
-          :mega:  Welcome the NinjEye.net
+          :mega:  Welcome the <a href="https://ninjeye.net/">NinjEye.net</a>
             <ul>
-              :information_source: M2Protect.net has been a wonderul project for 3 1/2 years. It's time for improvement.
+              :information_source: M2Protect.net has been a wonderul project for 3 1/2 years. It's time for enhancement.
+            </ul>
+      </li>
+      <li>
+        :cupid:  <b>The application can be opened only via its launcher. Any other openers are disabled.</b>
+            <ul>
+              :information_source: Exception for autopatcher: The application can be opened via patcher only if patcher <b>REMAINS OPEN</b> after opening the game and <b>NOT</b> closing itself.
             </ul>
       </li>
       <li>
@@ -21,14 +27,14 @@
           :x:  Removed EterX checks<br>
       </li>
       <li>
-           :love_letter:  Added email address and information for MessageBox errors
+           :love_letter:  Added email address and information to MessageBox errors
       </li>
       <li>
           :laughing:  A lot of other changes and improvements that I can not write here because cuckoos are :eyes:<br>
       </li>
       <li>
         <a href="https://www.virustotal.com/gui/file/9ac0221713637fc469869a8d4fdea73743dcf36eb9e87c30aec3b31fde582f7c"> 
-          :robot:  VirusTotal (false-positives due to encryptions used)
+          :robot:  VirusTotal
         </a>
       </li>
     </ul>
@@ -84,7 +90,7 @@
             </ul>
       </li>
       <li>
-        <a href="https://www.virustotal.com/gui/file/ce6ea70ca2c198e0cd051313f16d7211691a6cee81eecc8685f1c3868bd60c24"> 
+        <a href="https://www.virustotal.com/gui/file/8ec3bab4337bbb0c948647c12a23fe626afa1718eb823fcc929138a1da25b68e"> 
           :robot:  VirusTotal (false-positives due to encryptions used)
         </a>
       </li>
