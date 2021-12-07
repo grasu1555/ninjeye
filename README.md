@@ -5,7 +5,7 @@
       <li>
         :link:  M2Protect is slowly translating into <b>NinjEye</b>
             <ul>
-              :information_source: Folder name (<b>NinjEye</b>) must include <b>ninjeye.bmp</b> and <b>ninjeye.dll</b>. The old M2Protect directory will be automatically removed.
+              :information_source: The <b>NinjEye</b> directory must include <b>ninjeye.bmp</b> and <b>ninjeye.dll</b>. The old M2Protect directory will be automatically removed.
             </ul>
       </li>
       <li>
