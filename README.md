@@ -59,6 +59,14 @@
       <li>
           :laughing:  A lot of other changes and improvements that I can not write here because cuckoos are :eyes:<br>
       </li>
+<<<<<<< HEAD
+=======
+      <li>
+        <a href="https://www.virustotal.com/gui/file/8ec3bab4337bbb0c948647c12a23fe626afa1718eb823fcc929138a1da25b68e"> 
+          :robot:  VirusTotal
+        </a>
+      </li>
+>>>>>>> dc049b59f48345361e7df515142e72b7d1fd070d
     </ul>
   </li>
   <li>:rocket: v139
