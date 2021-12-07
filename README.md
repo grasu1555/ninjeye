@@ -1,5 +1,32 @@
 # <a href="https://ninjeye.net/"><img src="https://ninjeye.net/assets/img/brand/white.png" /></a>
 <ul>
+  <li>:rocket: v141
+    <ul>
+      <li>
+        :link:  M2Protect is slowly translating into <b>NinjEye</b>
+            <ul>
+              :information_source: Folder name (<b>NinjEye</b>) must include <b>ninjeye.bmp</b> and <b>ninjeye.dll</b>. The old M2Protect directory will be automatically removed.
+            </ul>
+      </li>
+      <li>
+        :x: <b>REMOVED</b>  <strike><b>The application can be opened only via its launcher. Any other openers are disabled.</b>
+            <ul>
+              :information_source: Exception for autopatcher: The application can be opened via patcher only if patcher <b>REMAINS OPEN</b> after opening the game and <b>NOT</b> closing itself.
+            </ul></strike>
+      </li>
+      <li>
+          :wrench:  Reworked the exported m4in() function
+            <ul>
+              :information_source: Changed to 'void __cdecl m4in(DWORD *arg7, DWORD *arg8, std::vector< DWORD > *dwThIDs, DWORD licenseKey);'. Removed the first parameter.
+            </ul>
+      </li>
+      <li>
+        <a href="https://www.virustotal.com/gui/file/939e69dc4a3a0e67af5ee021090031dc71d15b8f8a361c11c8b5cf2d4578830d"> 
+          :robot:  VirusTotal
+        </a>
+      </li>
+    </ul>
+  </li>
   <li>:rocket: v140
     <ul>
       <li>
@@ -32,11 +59,6 @@
       <li>
           :laughing:  A lot of other changes and improvements that I can not write here because cuckoos are :eyes:<br>
       </li>
-      <li>
-        <a href="https://www.virustotal.com/gui/file/9ac0221713637fc469869a8d4fdea73743dcf36eb9e87c30aec3b31fde582f7c"> 
-          :robot:  VirusTotal
-        </a>
-      </li>
     </ul>
   </li>
   <li>:rocket: v139
@@ -55,11 +77,6 @@
       </li>
       <li>
           :roller_coaster:  Upgraded to OpenSSL 3.0 and Curl 7.80
-      </li>
-      <li>
-        <a href="https://www.virustotal.com/gui/file/48b5a1159baec5f52a1e7648ceabf887dca20134948d7d0bfa0671d38b80d0c2"> 
-          :robot:  VirusTotal (false-positives due to encryptions used)
-        </a>
       </li>
     </ul>
   </li>
@@ -88,11 +105,6 @@
             <ul>
               :information_source: At the run-time, mss32.dll executes any file it finds in the client folder with the following extensions .mix, .asi, .flt, .m3d. User-added files are being detected from now on.
             </ul>
-      </li>
-      <li>
-        <a href="https://www.virustotal.com/gui/file/8ec3bab4337bbb0c948647c12a23fe626afa1718eb823fcc929138a1da25b68e"> 
-          :robot:  VirusTotal (false-positives due to encryptions used)
-        </a>
       </li>
     </ul>
   </li>
