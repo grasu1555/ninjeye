@@ -21,7 +21,7 @@
             </ul>
       </li>
       <li>
-        <a href="https://www.virustotal.com/gui/file/939e69dc4a3a0e67af5ee021090031dc71d15b8f8a361c11c8b5cf2d4578830d"> 
+        <a href="https://www.virustotal.com/gui/file/4fd2c2e163c209aa49f6544b5e6fd6b16c81c0630b4d1d04dcc22b727ade9d8b"> 
           :robot:  VirusTotal
         </a>
       </li>
