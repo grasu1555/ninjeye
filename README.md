@@ -1,4 +1,4 @@
-# <a href="https://ninjeye.net/"><img src="https://ninjeye.net/assets/img/brand/white.png" /></a>
+# <a href="https://ninjeye.net/"><img src="https://ninjeye.net/assets/img/brand/white3.png" /></a>
 <ul>
   <li>:rocket: v142
     <ul>
