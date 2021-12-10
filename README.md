@@ -1,5 +1,23 @@
 # <a href="https://ninjeye.net/"><img src="https://ninjeye.net/assets/img/brand/white.png" /></a>
 <ul>
+  <li>:rocket: v142
+    <ul>
+      <li>
+          :feet:  Fixed a bug for autopatcher starting<br>
+      </li>
+      <li>
+          :godmode:  Fixed client opening if website is down<br>
+      </li>
+      <li>
+          :zap:  New logo<br>
+      </li>
+      <li>
+        <a href="https://www.virustotal.com/gui/file/6517978845004e744dce5d4a0cdb324dcf432472a81d7026817435ef6909126e"> 
+          :robot:  VirusTotal
+        </a>
+      </li>
+    </ul>
+  </li>
   <li>:rocket: v141
     <ul>
       <li>
@@ -19,11 +37,6 @@
             <ul>
               :information_source: Changed to 'void __cdecl m4in(DWORD *arg7, DWORD *arg8, std::vector< DWORD > *dwThIDs, DWORD licenseKey);'. Removed the first parameter.
             </ul>
-      </li>
-      <li>
-        <a href="https://www.virustotal.com/gui/file/4fd2c2e163c209aa49f6544b5e6fd6b16c81c0630b4d1d04dcc22b727ade9d8b"> 
-          :robot:  VirusTotal
-        </a>
       </li>
     </ul>
   </li>
