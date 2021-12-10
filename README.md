@@ -3,13 +3,13 @@
   <li>:rocket: v142
     <ul>
       <li>
-          :feet:  Fixed a bug for autopatcher starting<br>
+          :syringe: Fixed a bug for autopatcher starting<br>
       </li>
       <li>
-          :godmode:  Fixed client opening if website is down<br>
+          :godmode: Fixed client opening if website is down<br>
       </li>
       <li>
-          :zap:  New logo<br>
+          :zap:  New logo and new startup image<br>
       </li>
       <li>
         <a href="https://www.virustotal.com/gui/file/6517978845004e744dce5d4a0cdb324dcf432472a81d7026817435ef6909126e"> 
