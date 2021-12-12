@@ -1,5 +1,29 @@
 # <a href="https://ninjeye.net/"><img src="https://ninjeye.net/assets/img/brand/white3.png" /></a>
 <ul>
+  <li>:rocket: v143 (PLEASE TELL ME BEFORE YOU UPDATE TO v143 BECAUSE YOU WILL RECEIVE INTERNAL ERROR OTHERWISE)
+    <ul>
+      <li>
+          :skull: Added new checks for illegal softwares and fixed some leaks<br>
+      </li>
+      <li>
+          :tada:  Fixed some major bugs from previous versions<br>
+      </li>
+      <li>
+          :wrench:  Reworked the old exported m4in() function
+            <ul>
+              :information_source: Changed to 'void __cdecl ex_Launch(DWORD *arg7, DWORD *arg8, std::vector< DWORD > *dwThIDs);'. 'm4in' changed to 'ex_Launch' and removed the last parameter.
+            </ul>
+      </li>
+      <li>
+          :battery:  Improved efficiency and performance<br>
+      </li>
+      <li>
+        <a href="https://www.virustotal.com/gui/file/cf539c54ec0ef14f0e881e9ed7efeeed77df8d18a05dc8ea38d8378ade349b47"> 
+          :robot:  VirusTotal
+        </a>
+      </li>
+    </ul>
+  </li>
   <li>:rocket: v142
     <ul>
       <li>
@@ -10,11 +34,6 @@
       </li>
       <li>
           :zap:  New logo and new startup image<br>
-      </li>
-      <li>
-        <a href="https://www.virustotal.com/gui/file/6517978845004e744dce5d4a0cdb324dcf432472a81d7026817435ef6909126e"> 
-          :robot:  VirusTotal
-        </a>
       </li>
     </ul>
   </li>
