@@ -36,7 +36,7 @@
           :battery:  Improved efficiency and performance
       </li>
       <li>
-        <a href="https://www.virustotal.com/gui/file/366c39260f6b4150f7b76a18e7af4d01559a8db2892be777b42e83a30d0e2fa6"> 
+        <a href="https://www.virustotal.com/gui/file/d59981bf6bdfc5e8aa11cb329d4d16e5e35ce3fb7c9bd4a1ed73b6c5b7eac569"> 
           :robot:  VirusTotal
         </a>
       </li>
