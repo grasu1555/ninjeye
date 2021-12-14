@@ -1,12 +1,30 @@
 # <a href="https://ninjeye.net/"><img src="https://ninjeye.net/assets/img/brand/white3.png" /></a>
 <ul>
-  <li>:rocket: v143 (PLEASE TELL ME BEFORE YOU UPDATE TO v143 BECAUSE YOU WILL RECEIVE INTERNAL ERROR OTHERWISE)
+  <li>:rocket: v143 + v144 (PLEASE TELL ME BEFORE YOU UPDATE TO v144 BECAUSE YOU WILL RECEIVE INTERNAL ERROR OTHERWISE)
     <ul>
       <li>
-          :skull: Added new checks for illegal softwares and fixed some leaks<br>
+        :star: New thread checking numbers
+            <ul>
+              :information_source: I will implement you the newest algorithm. Please contact me.
+            </ul>
       </li>
       <li>
-          :tada:  Fixed some major bugs from previous versions<br>
+        :x: <b>REMOVED TOTALLY</b>  <strike><b>The application can be opened only via its launcher. Any other openers are disabled.</b>
+            <ul>
+              :information_source: Exception for autopatcher: The application can be opened via patcher only if patcher <b>REMAINS OPEN</b> after opening the game and <b>NOT</b> closing itself.
+            </ul></strike>
+      </li>
+      <li>
+          :trollface: Inbuilt the bmp image
+            <ul>
+              :information_source: The old image will be removed automatically from NinjEye directory.
+            </ul>
+      </li>
+      <li>
+          :skull: Added new checks for illegal softwares and fixed some leaks
+      </li>
+      <li>
+          :tada:  Fixed some major bugs from previous versions
       </li>
       <li>
           :wrench:  Reworked the old exported m4in() function
@@ -15,10 +33,10 @@
             </ul>
       </li>
       <li>
-          :battery:  Improved efficiency and performance<br>
+          :battery:  Improved efficiency and performance
       </li>
       <li>
-        <a href="https://www.virustotal.com/gui/file/93adfe5e92594975aabc673e2f13fe33cc84eef32c586c5da49ed9fafbefb7fe"> 
+        <a href="https://www.virustotal.com/gui/file/366c39260f6b4150f7b76a18e7af4d01559a8db2892be777b42e83a30d0e2fa6"> 
           :robot:  VirusTotal
         </a>
       </li>
@@ -27,13 +45,13 @@
   <li>:rocket: v142
     <ul>
       <li>
-          :syringe: Fixed a bug for autopatcher starting<br>
+          :syringe: Fixed a bug for autopatcher starting
       </li>
       <li>
-          :godmode: Fixed client opening if website is down<br>
+          :godmode: Fixed client opening if website is down
       </li>
       <li>
-          :zap:  New logo and new startup image<br>
+          :zap:  New logo and new startup image
       </li>
     </ul>
   </li>
@@ -74,22 +92,22 @@
             </ul>
       </li>
       <li>
-        :postal_horn:  Fixed <b><i>all hacks</i></b> that worked on versions before<br>
+        :postal_horn:  Fixed <b><i>all hacks</i></b> that worked on versions before
       </li>
       <li>
-          :airplane:  Fixed Reksati's Macro<br>
+          :airplane:  Fixed Reksati's Macro
       </li>
       <li>
-          :100:  Fixed some little bugs<br>
+          :100:  Fixed some little bugs
       </li>
       <li>
-          :x:  Removed EterX checks<br>
+          :x:  Removed EterX checks
       </li>
       <li>
            :love_letter:  Added email address and information to MessageBox errors
       </li>
       <li>
-          :laughing:  A lot of other changes and improvements that I can not write here because cuckoos are :eyes:<br>
+          :laughing:  A lot of other changes and improvements that I can not write here because cuckoos are :eyes:
       </li>
     </ul>
   </li>
@@ -105,7 +123,7 @@
             </ul>
       </li>
       <li>
-          :gun:  Fixed the latest version of SpankTeamMod<br>
+          :gun:  Fixed the latest version of SpankTeamMod
       </li>
       <li>
           :roller_coaster:  Upgraded to OpenSSL 3.0 and Curl 7.80
@@ -130,7 +148,7 @@
             </ul>
       </li>
       <li>
-          :gun:  Fixed the latest versions of M2Bob<br>
+          :gun:  Fixed the latest versions of M2Bob
       </li>
       <li>
           :bomb:  Fixed python code injections exploit with the help of mss32.dll
