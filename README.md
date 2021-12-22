@@ -1,6 +1,37 @@
 # <a href="https://ninjeye.net/"><img src="https://ninjeye.net/assets/img/brand/white3.png" /></a>
 <ul>
-  <li>:rocket: v143 + v144 (PLEASE TELL ME BEFORE YOU UPDATE TO v144 BECAUSE YOU WILL RECEIVE INTERNAL ERROR OTHERWISE)
+  <li>:rocket: v147
+    <ul>
+      <li>
+        :star: New thread checking numbers
+            <ul>
+              :information_source: I will implement you the newest algorithm. Please contact me.
+            </ul>
+      </li>
+      <li>
+          :gun:  Fixed Cheats of Metin2
+      </li>
+      <li>
+          :tada:  Fixed some major bugs from previous versions
+      </li>
+      <li>
+          :battery:  Improved efficiency and performance
+      </li>
+      <li>
+        <a href="https://www.virustotal.com/gui/file/644141090a421dee4a2927fbf4ed6533caf4724b6f89f5aa11387ea4d17e4ea6"> 
+          :robot:  VirusTotal
+        </a>
+      </li>
+    </ul>
+  </li>
+  <li>:rocket: v145 + v146 (unstable versions)
+    <ul>
+      <li>
+        :information_source: Information not available
+      </li>
+    </ul>
+  </li>
+  <li>:rocket: v143 + v144
     <ul>
       <li>
         :star: New thread checking numbers
@@ -34,11 +65,6 @@
       </li>
       <li>
           :battery:  Improved efficiency and performance
-      </li>
-      <li>
-        <a href="https://www.virustotal.com/gui/file/8f5945d732593e5a2078ea1a7566cb06110c065cf7c890e47c3c99cb88395dec"> 
-          :robot:  VirusTotal
-        </a>
       </li>
     </ul>
   </li>
