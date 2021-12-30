@@ -1,5 +1,24 @@
 # <a href="https://ninjeye.net/"><img src="https://ninjeye.net/assets/img/brand/white3.png" /></a>
 <ul>
+  <li>:rocket: v150
+    <ul>
+      <li>
+          :gun:  Fixed some turkish cheats
+      </li>
+      <li>
+        <a href="https://www.virustotal.com/gui/file/47e8ed3379e146442683535ffc309548ed98474c54f0e0aa5d2f082266a336e4"> 
+          :robot:  VirusTotal
+        </a>
+      </li>
+    </ul>
+  </li>
+  <li>:rocket: v148 + v149
+    <ul>
+      <li>
+        :information_source: Information not available
+      </li>
+    </ul>
+  </li>
   <li>:rocket: v147
     <ul>
       <li>
@@ -16,11 +35,6 @@
       </li>
       <li>
           :battery:  Improved efficiency and performance
-      </li>
-      <li>
-        <a href="https://www.virustotal.com/gui/file/a39085ff1dab894bd27eb553d5cd96ad1858112ea4d40551f5fe3f69bef31820"> 
-          :robot:  VirusTotal
-        </a>
       </li>
     </ul>
   </li>
