@@ -6,7 +6,7 @@
           :gun:  Fixed some turkish cheats
       </li>
       <li>
-        <a href="https://www.virustotal.com/gui/file/47e8ed3379e146442683535ffc309548ed98474c54f0e0aa5d2f082266a336e4"> 
+        <a href="https://www.virustotal.com/gui/file/b71acadbca25e993c85bc0cd58a2512661b42c80a16706aea51f231147c80fff"> 
           :robot:  VirusTotal
         </a>
       </li>
